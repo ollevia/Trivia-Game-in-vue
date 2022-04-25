@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Monoton&display=swap" rel="stylesheet">
+
+  <script src="https://kit.fontawesome.com/5aff9451b0.js" crossorigin="anonymous"></script>
+  <title><%= htmlWebpackPlugin.options.title %></title>
+
+  <!--nedladdningsbar app den moderna vägen.-->
+  <link rel="manifest" href="manifest.json"/>
+
+  <!--äldre android eller iOS-->
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  <meta name="apple-mobile-web-app-title" content="True or false?" />
+  <link rel="apple-touch-icon" href="./icons/iconL.webp" sizes="any" /> <!--en för varje ikonstorlek annars. funkar any?-->
+
+
+  <!--äldre windows-phone-->
+  <meta name="msapplication-TileImage" content="./icons/iconL.webp" />
+  <meta name="msapplication-TileColor" content="#fff" />
+  <meta name="theme-color" content="#9E9E9E" />
+  <meta name="application-name" content="True or false?" />
+
+</head>
+
+<body>
+  <noscript>
+    <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled.
+      Please enable it to continue.</strong>
+  </noscript>
+  <div id="app"></div>
+  <!-- built files will be auto injected -->
+
+</body>
+
+</html>

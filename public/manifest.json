@@ -1,0 +1,21 @@
+{
+   "name": "True or false?",
+   "short_name": "True of false?",
+   "start_url": "./",
+   "display": "standalone",
+   "background_color": "#fff",
+   "theme_color": "#fff",
+   "description": "Trivia game",
+   "dir": "ltr",
+   "lang": "en-EN",
+   "orientation": "landscape",
+   "icons":[
+       {
+           "src":"icons/iconL.webp",
+           "type": "image/webp",
+           "sizes": "any"
+       }
+
+   ]
+
+}
