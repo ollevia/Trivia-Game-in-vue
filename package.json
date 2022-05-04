@@ -16,7 +16,7 @@
     "http-server": "^14.1.0",
     "lodash": "^4.17.21",
     "particles-bg-vue": "^1.3.5",
-    "vue-axios": "^3.4.0",
+    "vue-axios": "^3.4.1",
     "vue-class-component": "^8.0.0-0",
     "vue-lodash": "^2.1.2",
     "vue-particles": "^1.0.9",
