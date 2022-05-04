@@ -20,7 +20,7 @@
     "vue-class-component": "^8.0.0-0",
     "vue-lodash": "^2.1.2",
     "vue-particles": "^1.0.9",
-    "vue-router": "^4.0.12"
+    "vue-router": "^4.0.14"
   },
   "devDependencies": {
     "@types/lodash": "^4.14.178",
