@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "bootstrap-vue-3": "^0.1.0",
-    "core-js": "^3.6.5",
+    "core-js": "^3.21.1",
     "he": "^1.2.0",
     "he-tree-vue": "^3.0.3",
     "http-server": "^14.1.0",
