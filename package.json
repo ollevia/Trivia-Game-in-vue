@@ -13,7 +13,7 @@
     "core-js": "^3.6.5",
     "he": "^1.2.0",
     "he-tree-vue": "^3.0.3",
-    "http-server": "^14.1.0",
+    "http-server": "^14.1.1",
     "lodash": "^4.17.21",
     "particles-bg-vue": "^1.3.5",
     "vue-axios": "^3.4.0",
